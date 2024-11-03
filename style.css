@@ -1,4 +1,9 @@
 ul + p{
     font-size: 24px;
 }
-/* я не знаю як зробити ті 2 посилання червоного кольору */
+[href="https://validator.w3.org/"]{
+    color: red;
+}
+[href="https://www.youtube.com/"]{
+    color: red;
+}
